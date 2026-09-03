@@ -109,7 +109,7 @@ separately-estimated confidence intervals.
 
 Install dependencies:
 
-pip install scikit-learn lightgbm shap pandas numpy statsmodels matplotlib
+```pip install scikit-learn lightgbm shap pandas numpy statsmodels matplotlib```
 
 
 ## Data Availability
@@ -123,11 +123,11 @@ shared publicly.
 If you use this framework, please cite the accompanying manuscript and the
 domain-structured ensemble architecture this work builds on:
 
-Kudamala R, Barboi C. Architecture transfer of a domain-structured
+* Kudamala R, Barboi C. Architecture transfer of a domain-structured
 ensemble for perioperative mortality prediction. Manuscript submitted for
 publication, AMIA Amplify 2027.
 
-Shukla S, Barboi C. A domain-structured ensemble framework for
+* Shukla S, Barboi C. A domain-structured ensemble framework for
 perioperative outcome prediction using electronic health record data. 2026
 IEEE 14th International Conference on Healthcare Informatics (ICHI).
 Minneapolis, MN, USA; 2026:377-385. doi:10.1109/ICHI69079.2026.00056.
