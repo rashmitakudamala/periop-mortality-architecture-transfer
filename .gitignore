@@ -1,0 +1,8 @@
+df_model_1.csv
+Standardized_data_all_4_20_26.xlsx
+*.xlsx
+**/test_predictions_2020.parquet
+*.parquet
+**/standardized_data_cache.parquet
+*.pkl
+.ipynb_checkpoints/
